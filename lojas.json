@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Smart Fit",
+    "categoria": "Academia",
+    "imagem": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Smart_Fit_logo.svg/960px-Smart_Fit_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "destaque": true
+  },
+  {
+    "id": 2,
+    "nome": "Açaí Aju",
+    "categoria": "Alimentação Saudável",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTOiaGOQyaaKQJVtTRdBc5dEy3weTr1fFAnHb1AgcOQrSJExhRgWcTSU&s=10",
+    "destaque": true
+  },
+  {
+    "id": 3,
+    "nome": "Boticário",
+    "categoria": "Beleza e Estética",
+    "imagem": "https://logodownload.org/wp-content/uploads/2014/10/boticario-logo.png",
+    "destaque": true
+  },
+  {
+    "id": 4,
+    "nome": "Cheirin Bão",
+    "categoria": "Cafeteira",
+    "imagem": "https://cheirinbao.com.br/storage/2023/01/cropped-logo_cheirin.png",
+    "destaque": true
+  },
+  {
+    "id": 5,
+    "nome": "Milk Moo",
+    "categoria": "Sorvetes e Milkshakes",
+    "imagem": "https://elephant-file-storage.nyc3.digitaloceanspaces.com/public/images/mos/logo-m-m-page-0001-1701182050_1704218182-removebg-preview___CuPa6KXZUCn2h7QNpuCtZ.webp",
+    "destaque": true
+  },
+  {
+    "id": 6,
+    "nome": "Havanna",
+    "categoria": "Sorvetes e Milkshakes",
+    "imagem": "https://elephant-file-storage.nyc3.digitaloceanspaces.com/public/images/mos/WhatsApp%20Image%202025-10-01%20at%2013.48.16___wq_zWClwx_EQBi_CBZvDp___LpixTSj_B2zrC6XxqC7n7.jpg",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "Americanas",
+    "categoria": "Âncora",
+    "imagem": "https://logodownload.org/wp-content/uploads/2019/10/americanas-logo-1.png",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "nome": "Renner",
+    "categoria": "Âncora",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26RxMe09onk-3sFpLTqDOrz1ZPOvbm3WKeXedlVDsPw&s=10",
+    "destaque": false
+  }
+]
