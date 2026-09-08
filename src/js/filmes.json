@@ -2,7 +2,13 @@
     {
         "id": 1,
         "nome": "Homem-Aranha: Um Novo Dia",
-        "imagem": "",
+        "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/homem-aranha-um-novo-dia/257f9c31-7c31-4bfd-b903-2b398f4830dc.webp",
+        "destaque": true
+    },
+    {
+        "id": 2,
+        "nome": "A Odisseia",
+        "imagem": "https://ingresso-a.akamaihd.net/b2b/production/uploads/articles-content/9d5a30f4-2666-4caf-944c-f36ea328c83c.jpg",
         "destaque": true
     }
 ]
