@@ -244,6 +244,16 @@ header {
   color: var(--text-primary);
 }
 
+/* CARD FILMES */
+
+#movies-grid {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.card-movie {
+  aspect-ratio: 2 / 3;
+}
+
 .btn-see-more {
   display: inline-block;
   font-size: 0.9rem;
